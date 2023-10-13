@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.829);
+}
+table {
+  border: 1px solid white;
+  color: white;
+  padding: 5px;
+  width: 100%;
+  margin: 5px;
+}
+th{
+  border-bottom: 1px solid white;
+}
+
